@@ -1,0 +1,2 @@
+git stash check
+git
